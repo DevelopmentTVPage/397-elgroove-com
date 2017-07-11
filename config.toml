@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "elgroove"
+baseURL = "https:\/\/elgroove.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
